@@ -25,5 +25,5 @@ export class DatabindingassignComponent implements OnInit {
         this.userName = '';
         this.disableReset = true;
     }
-
+//checking git commit
 }
